@@ -8,9 +8,9 @@ import gpsModule as gps
 
 ###--------------------Things to be modified---------------
 duration = 60
-SenderMailID = "binnalasravya989@gmail.com"
-passkey = 'qryx ekdp rkyg jjpm'
-DestinationMailID = "shivarocky120@gmail.com"
+SenderMailID = "your_email@gmail.com"
+passkey = 'xxxx xxxx xxxx xxxx'
+DestinationMailID = "receiver_email@gmail.com"
 
 ###---------------------------------------------------------
 
